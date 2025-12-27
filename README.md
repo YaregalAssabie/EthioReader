@@ -1,0 +1,2 @@
+# EthioReader
+Ethiopic Character Recognition
